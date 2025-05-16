@@ -2,8 +2,8 @@
 
 https://solmorcillo.com.br
 
-https://momodin.com.br
+https://solmorcillo.com.br/momodin.html
 
-https://ioubi.com.br
+https://solmorcillo.com.br/ioubi.html
 
-<a href="https://wa.me/5528988069681">WhatsApp</a>
+<a href="https://wa.me/552899945-2754">WhatsApp</a>
