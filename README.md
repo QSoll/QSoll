@@ -1,4 +1,4 @@
-<img src="cartaoFoto_info.jpg">
+<img src="cartao_github.jpg">
 
 https://solmorcillo.com.br
 
