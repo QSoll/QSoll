@@ -5,11 +5,14 @@
   <br>
 </div>
 <br>
+<hr>
+<br>
 
 <div align="center">
   
 <a href="https://www.linkedin.com/in/solmorcillo/" target="_blank" ><img src="logo_linkedin.jpg" alt="Ir para Linkedim" width="40" height="40"></a> &nbsp; &ensp; <a href="https://www.youtube.com/@SolMorcillo" target="_blank"><img src="logo_youtube.png" alt="texto" width="40" height="40"></a> &nbsp; &ensp; <a href="https://www.instagram.com/sol_morcillo/" target="_blank"><img src="logo_instagram.png" alt="texto" width="40" height="40"></a>
 <div>
+<hr>
 
 
 
