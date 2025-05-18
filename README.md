@@ -1,7 +1,7 @@
 <img align="center" src="cartaoFoto_info1.jpg">
 
 <div align="center">
-<a href="https://solmorcillo.com.br" title="Website Sol Morcillo" target="_blank"><img src="logotipoSM_SM.png" width="80" height="90"></a> &nbsp; &ensp; &nbsp; <a href="https://solmorcillo.com.br/momodin.html" title="Website MoModIn" target="_blank"><img src="logoMomodin.fw.png" width="70" height=90"></a> &nbsp; &ensp; &nbsp; <a href="https://solmorcillo.com.br/ioubi.html" title="Website iOUBi" target="_blank"><img src="logotipo_ioubi.fw.png" width="75" height="90"></a>
+<a href="https://solmorcillo.com.br" title="Website Sol Morcillo" target="_blank"><img src="logotipoSM_SM.png" width="60" height="70"></a> &nbsp; &ensp; &nbsp; <a href="https://solmorcillo.com.br/momodin.html" title="Website MoModIn" target="_blank"><img src="logoMomodin.fw.png" width="50" height=70"></a> &nbsp; &ensp; &nbsp; <a href="https://solmorcillo.com.br/ioubi.html" title="Website iOUBi" target="_blank"><img src="logotipo_ioubi.fw.png" width="55" height="70"></a>
   <br6
 </div>
 <br>
