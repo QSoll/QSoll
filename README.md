@@ -10,8 +10,8 @@
 
 <div align="center">
   
-<a href="https://www.linkedin.com/in/solmorcillo/" target="_blank" ><img src="logo_linkedin.jpg" width="30" height="30"></a> &nbsp; &ensp; <a href="https://www.youtube.com/@SolMorcillo" target="_blank"><img src="logo_youtube.png" alt="texto" width="30" height="30"></a> &nbsp; &ensp; <a href="https://www.instagram.com/sol_morcillo/" target="_blank"><img src="logo_instagram.png" alt="texto" width="30" height="30"></a>
-&nbsp; &ensp; <a href="https://www.github.com/QSoll/" target="_blank" ><img src="logo_github.jpg" alt="Ir para Linkedim" width="30" height="30"></a>
+<a href="https://www.linkedin.com/in/solmorcillo/" target="_blank" ><img src="logo_linkedin.jpg" width="20" height="20"></a> &nbsp; &ensp; <a href="https://www.youtube.com/@SolMorcillo" target="_blank"><img src="logo_youtube.png" alt="texto" width="20" height="20"></a> &nbsp; &ensp; <a href="https://www.instagram.com/sol_morcillo/" target="_blank"><img src="logo_instagram.png" alt="texto" width="20" height="20"></a>
+&nbsp; &ensp; <a href="https://www.github.com/QSoll/" target="_blank" ><img src="logo_github.jpg" alt="Ir para Linkedim" width="20" height="20"></a>
 <div>
 
 
