@@ -1,0 +1,51 @@
+*{
+    border:0px;
+    margin:0px;
+    padding:0px;
+    align-items: center;
+   justify-content: center;
+   text-decoration: none;
+   color: black;
+}
+
+div{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    padding-bottom:20px;
+    gap:40px;
+    text-align: center;
+}
+
+.banner{
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}
+
+p{
+    width: 150px;
+    border:1px solid rgb(244, 244, 247);
+    border-radius: 10px;
+    padding: 15px;
+    box-shadow: 10px 5px 5px rgb(229, 227, 227);
+}
+
+.img_mini{
+    display:inline-block;
+    width: 45px;
+    height: auto;
+    padding:5%;
+    align-items: center;
+    vertical-align: middle;
+    
+}
+
+.img_redes{
+    display:inline-block;
+    width: 45px;
+    height: auto;
+    padding:1%;
+    align-items: center;
+    vertical-align: middle;
+}
