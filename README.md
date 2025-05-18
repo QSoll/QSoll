@@ -49,7 +49,20 @@
   * Solução de problemas (debugging)
   * Otimização de desempenho e segurança
 
+<br>
+
+**PRODUCTS DEVELOPED**
+
+* 80 cm ruler
+* Hook ruler
+* Hollow doll ruler/square
+
+Material: PETG
+Creation tool: CorelDRAW
+
 </div>
+
+<img align="center" src="banner4.jpg">
 
 
 
