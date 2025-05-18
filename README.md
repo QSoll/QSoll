@@ -1,10 +1,12 @@
 <img src="cartao_github.jpg">
 
-<a href="https://solmorcillo.com.br" target="_blank">www.solmorcillo.com.br></a>
+<a href="https://solmorcillo.com.br" target="_blank">solmorcillo.com.br</a>
 
-https://solmorcillo.com.br/momodin.html
+<a href="https://solmorcillo.com.br/momodin.html" target="_blank">MoModIn - Moda e modelagem industrial</a>
 
-https://solmorcillo.com.br/ioubi.html
+<a href="https://solmorcillo.com.br/ioubi.html" target="_blank">Tecnologia infravermelho longo</a>
 
-https://www.linkedin.com/in/solmorcillo/
+<a href="https://www.linkedin.com/in/solmorcillo/" target="_blank">Linkedin</a>
+
+<a href="https://www.youtube.com/@SolMorcillo" target="_blank">YouTube</a>
 
