@@ -8,4 +8,3 @@ https://solmorcillo.com.br/ioubi.html
 
 https://www.linkedin.com/in/solmorcillo/
 
-<a href="https://wa.me/552899945-2754">WhatsApp</a>
