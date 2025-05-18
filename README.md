@@ -1,6 +1,6 @@
 <img src="cartao_github.jpg">
 
-https://solmorcillo.com.br
+<a href="https://solmorcillo.com.br" target="_blank">www.solmorcillo.com.br></a>
 
 https://solmorcillo.com.br/momodin.html
 
