@@ -57,7 +57,7 @@
 * Hook ruler
 * Hollow doll ruler/square
 
-Material: PETG
+Material: PETG <br>
 Creation tool: CorelDRAW
 
 </div>
