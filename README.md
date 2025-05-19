@@ -59,7 +59,7 @@
 
 Material: PETG <br>
 Creation tool: CorelDRAW <br>
-Veja no youTube as <a href="https://youtu.be/VmiQWrJMKYA?si=CLvEnXqrqiBRzNRV" target="_blank" > réguas MoModIN</a>
+Watch on YouTube the <a href="https://youtu.be/VmiQWrJMKYA?si=CLvEnXqrqiBRzNRV" target="_blank" > MoModIn rulers</a>
                             
 </div>
 
