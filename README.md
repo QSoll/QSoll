@@ -59,11 +59,12 @@
 
 Material: PETG <br>
 Creation tool: CorelDRAW <br>
-Veja no youTube as <a href="https://youtu.be/VmiQWrJMKYA?si=CLvEnXqrqiBRzNRV" target="_blank"> réguas MoModIN</a>
+Veja no youTube as <a href="https://youtu.be/VmiQWrJMKYA?si=CLvEnXqrqiBRzNRV" target="_blank" > réguas MoModIN</a>
                             
 </div>
 
 <img align="center" src="banner4.jpg">
+
 
 
 
