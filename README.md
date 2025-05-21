@@ -4,10 +4,8 @@
 <a href="https://solmorcillo.com.br" title="Website Sol Morcillo" target="_blank"><img src="logotipoSM_SM.png" width="50" height="60"></a> &nbsp; &ensp; &nbsp; <a href="https://solmorcillo.com.br/momodin.html" title="Website MoModIn" target="_blank"><img src="logoMomodin.fw.png" width="50" height=60"></a> &nbsp; &ensp; &nbsp; <a href="https://solmorcillo.com.br/ioubi.html" title="Website iOUBi" target="_blank"><img src="logotipo_ioubi.fw.png" width="45" height="60"></a>
 
 </div>
-<br>
 
 ---
-
 <br>
 
 <div align="center">
@@ -16,11 +14,10 @@
 &nbsp; &ensp; <a href="https://www.github.com/QSoll/" target="_blank" ><img src="logo_github.jpg" alt="Ir para Linkedim" width="20" height="20"></a>
 <div>
 
----
-
-<br>
-
 <div align="left">
+
+---
+<br>
   
   **WEB DESIGNER**
   
@@ -36,6 +33,7 @@
   * User Experience (UX)
   * Landing Page Creation
 
+    ---
     <br>
   
   **WEB DEVELOPER**
@@ -49,6 +47,7 @@
   * Solução de problemas (debugging)
   * Otimização de desempenho e segurança
 
+---
 <br>
 
 **PRODUCTS DEVELOPED**
@@ -66,9 +65,62 @@ Watch on YouTube the <a href="https://youtu.be/VmiQWrJMKYA?si=CLvEnXqrqiBRzNRV" 
 <img align="center" src="banner1.png">
 
 <div align= "left">
-<br>
 
 ---
-  <br>
+<br>
+
+**GRADUAÇÃO**
+
+ * Tecnóloga em Sistemas de Informação - Estácio - 2001
+
+---
+<br>
+
+**SOFT SKILLS**
+
+ * Adaptabilidade
+ * Comunicação
+ * Criatividade
+ * Empatia
+ * Inteligência emocional
+ * Liderança
+ * Resiliência
+ * Trabalho em equipe
+
+---
+<br>
+
+**HARD SKILLS**
+
+ * Design
+ * Edição de imagens e videos
+ * Escrita
+ * Gestão de equipe
+ * Habilidades de apresentação
+ * Programação
+
+ ---
+<br>
+
+**ALGUNS CERTIFICADOS ADQUIRIDOS**
+
+* Prompts Inteligentes - Microsoft 50 Anos - DIO - 16/05/2025
+* Audaces - Cetiqt RJ
+* Web designer - ISeven RJ- 1999
+
+---
+<br>
+
+**ALGUMAS DAS MINHAS POSTAGENS**
+
+ * <a href="https://web.dio.me/articles/o-impacto-da-engenharia-de-prompt-na-programacao-8b628b1ca1fc?back=/articles ">O impacto da engenharia de prompt na programação - DIO </a>
+
+ * <a href="https://web.dio.me/articles/font-boa-para-codar?back=/articles" >Font boa para codar - DIO </a>
+
+ * <a href="https://web.dio.me/articles/zoom-no-visual-studio-code?back=/articles" >Zoom no visual studio code - DIO </a>
+
+ * <a href="https://web.dio.me/articles/adicionando-img-no-background-de-menu-retratil?back=/articles">Adicionando img no background de menu retrátil - DIO </a>
+
+</div>
 
 
