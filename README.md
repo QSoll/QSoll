@@ -23,6 +23,8 @@
 
 <div align="center">
 
+<br>
+
 ![&ensp;](https://img.shields.io/badge/&ensp;-003545?style=for-the-badge&logo=&ensp;&logoColor=white)![Graduação:Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação](https://img.shields.io/badge/Graduação:Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação-003545?style=for-the-badge&logo=Graduação:Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação&logoColor=white)![&ensp;](https://img.shields.io/badge/&ensp;-003545?style=for-the-badge&logo=&ensp;&logoColor=white)
 
 </div>
@@ -124,8 +126,11 @@ Watch on YouTube the <a href="https://youtu.be/VmiQWrJMKYA?si=CLvEnXqrqiBRzNRV" 
 ---
 <br>
 
-
+<div align="center">
+  
 ![QSoll's GitHub stats](https://github-readme-stats.vercel.app/api?username=QSoll&show_icons=true&theme=radical)
+
+</div>
 
 
 
