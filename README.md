@@ -21,9 +21,8 @@
   
 **GRADUAÇÃO**
 
- * Tecnólogo em Sistemas de Informação - Estácio - 2001
+![Tecnologo em Sistemas](https://img.shields.io/badge/Tecnologo&nbsp;em&nbsp;Sistemas&nbsp;de&nbsp;Informação&nbsp;.&nbsp;Estacio&nbsp;.&nbsp;2019-EAB300?style=for-the-badge&logo=Tecnologo&logoColor=white)
 
----
 <br>
   
   **WEB DESIGNER**
@@ -44,17 +43,11 @@
     <br>
   
   **WEB DEVELOPER**
-  
-  * Website Creation
-  * Code Development
-  * Database
-  * Troubleshooting (Debugging)
-  * Performance and Security Optimization
-  * Banco de dados
-  * Solução de problemas (debugging)
-  * Otimização de desempenho e segurança
 
----
+![WebsiteCreation](https://img.shields.io/badge/Website&nbsp;Creation-FF5722?style=for-the-badge&logo=Websitecreation&logoColor=white)
+![CodeDevelopment](https://img.shields.io/badge/Code&nbsp;Development-2962FF?style=for-the-badge&logo=Code&nbsp;Development&logoColor=white)
+![Banco&nbsp;d&nbsp;dados](https://img.shields.io/badge/Banco&nbsp;d&nbsp;dados-0AC18E?style=for-the-badge&logo=Banco&nbsp;d&nbsp;dados&logoColor=white)
+
 <br>
 
 **SOFT SKILLS**
@@ -128,6 +121,9 @@ Watch on YouTube the <a href="https://youtu.be/VmiQWrJMKYA?si=CLvEnXqrqiBRzNRV" 
 
 
 ![QSoll's GitHub stats](https://github-readme-stats.vercel.app/api?username=QSoll&show_icons=true&theme=radical)
+
+
+
 
 
 
