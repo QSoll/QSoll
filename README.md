@@ -1,11 +1,15 @@
 <img align="center" src="cartao1.jpg">
 
+<br>
+
 <div align="center">
   <a href="https://solmorcillo.com.br" title="Website Sol Morcillo" target="_blank"><img src="logotipoSM_SM.png" width="50" height="60"></a> &nbsp; &ensp; &nbsp; <a href="https://solmorcillo.com.br/momodin.html" title="Website MoModIn" target="_blank"><img src="logoMomodin.fw.png" width="50" height=60"></a> &nbsp; &ensp; &nbsp; <a href="https://solmorcillo.com.br/ioubi.html" title="Website iOUBi" target="_blank"><img src="logotipo_ioubi.fw.png" width="45" height="60"></a>
 
 </div>
 
-<br> <br><br>
+---
+
+<br>
 
 <div align="center">
   
@@ -13,14 +17,17 @@
 &nbsp; &ensp; <a href="https://www.github.com/QSoll/" target="_blank" ><img src="logo_github.jpg" alt="Ir para Linkedim" width="20" height="20"></a>
 </div>
 
+---
+
 <br>
 
 <div align="center">
 
-![&ensp;](https://img.shields.io/badge/&ensp;-%233B4D98.svg?style=for-the-badge&logo=&ensp;&logoColor=white)![Graduação:Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação](https://img.shields.io/badge/Graduação:&ensp;&ensp;Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação-%233B4D98.svg?style=for-the-badge&logo=Graduação:Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação&logoColor=white)![...](https://img.shields.io/badge/&ensp;-%233B4D98.svg?style=for-the-badge&logo=&ensp;&logoColor=white)
+![&ensp;](https://img.shields.io/badge/&ensp;-003545?style=for-the-badge&logo=&ensp;&logoColor=white)![Graduação:Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação](https://img.shields.io/badge/Graduação:Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação-003545?style=for-the-badge&logo=Graduação:Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação&logoColor=white)![&ensp;](https://img.shields.io/badge/&ensp;-003545?style=for-the-badge&logo=&ensp;&logoColor=white)
+
 </div>
 
-<br>
+<br><br>
 
 <div align="left">
   
