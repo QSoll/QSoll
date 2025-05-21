@@ -123,6 +123,11 @@ Watch on YouTube the <a href="https://youtu.be/VmiQWrJMKYA?si=CLvEnXqrqiBRzNRV" 
 
 <img align="center" src="banner1.png">
 
+---
+<br>
+
+
+![QSoll's GitHub stats](https://github-readme-stats.vercel.app/api?username=QSoll&show_icons=true&theme=radical)
 
 
 
