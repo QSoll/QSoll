@@ -21,7 +21,7 @@
   
 **GRADUAÇÃO**
 
- * Tecnóloga em Sistemas de Informação - Estácio - 2001
+ * Tecnólogo em Sistemas de Informação - Estácio - 2001
 
 ---
 <br>
