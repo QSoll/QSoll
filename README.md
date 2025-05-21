@@ -65,7 +65,19 @@ Watch on YouTube the <a href="https://youtu.be/VmiQWrJMKYA?si=CLvEnXqrqiBRzNRV" 
 
 <img align="center" src="banner1.png">
 
+<div align= "left">
+<br>
 
+---
+  <br>
+
+  **ALGUNS CERTIFICADOS**
+
+* Prompts Inteligentes - Microsoft 50 Anos - DIO - 16/05/2025
+* Audaces - Cetiqt RJ
+* Web designer - ISeven RJ- 1999
+
+</div>
 
 
  
