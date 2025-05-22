@@ -14,9 +14,9 @@
 <br>
 
 
-<h3> Hello !!! </h3> <br>
-<h3>📤 Liking to code is living in constant UPLOAD 📤</h3>
-<h3><I LOVE CODING> </h3>
+Hello developers !!! <br>
+Liking to code is living in constant UPLOAD
+<h3>📤 I LOVE CODING 📤</h3>
 
 <br>
 
