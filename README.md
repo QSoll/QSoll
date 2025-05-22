@@ -13,7 +13,7 @@
 
 <br>
 
-![Graduação:Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação](https://img.shields.io/badge/Graduação:Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação-003545?style=for-the-badge&logo=Graduação:Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação&logoColor=white)
+![Graduação: &ensp;Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação](https://img.shields.io/badge/Graduação:Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação-003545?style=for-the-badge&logo=Graduação:Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação&logoColor=white)
 
 </div>
 
@@ -25,7 +25,7 @@
   
   * Responsiveness
   * Visual Design (UI)
-  * Layout Creation
+  * Layout Creation &ensp; &ensp;
   * Banner Creation
   * Logo Creation
   * Website Maintenance
