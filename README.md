@@ -20,7 +20,7 @@ Liking to code is living in constant UPLOAD
 
 <br>
 
-![Graduação: &ensp;Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação](https://img.shields.io/badge/Graduação:Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação-003545?style=for-the-badge&logo=Graduação:Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação&logoColor=white)
+![Degree:&ensp;INFORMATION&ensp;SYSTEMS&ensp;TECHNOLOGIST](https://img.shields.io/badge/Degree:&ensp;INFORMATION&ensp;SYSTEMS&ensp;TECHNOLOGIST-003545?style=for-the-badge&logo=Degree:&ensp;INFORMATION&ensp;SYSTEMS&ensp;TECHNOLOGIST&logoColor=white)
 
 </div>
 
@@ -78,7 +78,7 @@ Liking to code is living in constant UPLOAD
 
 <br><br>
 
-![Alguns certificados adquiridos](https://img.shields.io/badge/Alguns&ensp;certificados&ensp;adquiridos-FF6600?style=for-the-badge&logo=Alguns&ensp;certificados&ensp;adquiridos&logoColor=white)
+![some certificates acquired](https://img.shields.io/badge/Some&ensp;certificates&ensp;acquired-FF6600?style=for-the-badge&logo=Some&ensp;certificates&ensp;acquired&logoColor=white)
 
 * <a href="https://www.linkedin.com/in/solmorcillo/details/certifications/" target="_blank"><img src= "logo_linkedin.jpg" width="25" height="25"></a>
 * Prompts Inteligentes - Microsoft 50 Anos - DIO - 16/05/2025
