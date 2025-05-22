@@ -16,7 +16,7 @@
 
 Hello developers !!! <br>
 Liking to code is living in constant UPLOAD
-<h3>📤 I LOVE CODING 📤</h3>
+<h3><img src="icon_code_abertura.png"> I LOVE CODING 📤</h3>
 
 <br>
 
@@ -90,16 +90,16 @@ Liking to code is living in constant UPLOAD
 
 ![Some of my posts](https://img.shields.io/badge/Some&ensp;of&ensp;my&ensp;posts-E6007A?style=for-the-badge&logo=Algumas&ensp;das&ensp;minhas&ensp;postagens&logoColor=white)
 
-* The impact of prompt engineering on programming &ensp; <a href="https://www.linkedin.com/posts/solmorcillo_podcast-o-impacto-da-engenharia-de-prompt-activity-7329138780697792515-8UtK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAuitDYBO0Jky_a88mbhGCJBnYJU3tigTfU"><img src= "logo_linkedin.jpg" width="25" height="25"></a> &ensp;<a href="https://web.dio.me/articles/o-impacto-da-engenharia-de-prompt-na-programacao-8b628b1ca1fc?back=/articles" target="_blank" ><img src= "logo_dio.jpg" width="60" height="25"></a>
+* The impact of prompt engineering on programming &ensp; <a href="https://www.linkedin.com/posts/solmorcillo_podcast-o-impacto-da-engenharia-de-prompt-activity-7329138780697792515-8UtK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAuitDYBO0Jky_a88mbhGCJBnYJU3tigTfU"><img src= "logo_linkedin.jpg" width="20" height="20"></a> &ensp;<a href="https://web.dio.me/articles/o-impacto-da-engenharia-de-prompt-na-programacao-8b628b1ca1fc?back=/articles" target="_blank" ><img src= "logo_dio.jpg" width="55" height="20"></a>
 
-* Super cool font for coding &ensp; <a href="https://www.linkedin.com/posts/solmorcillo_font-super-legal-para-codar-activity-7000149356163026944-2ZNT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAuitDYBO0Jky_a88mbhGCJBnYJU3tigTfU" target="_blank" > <img src= "logo_linkedin.jpg" width="25" height="25"></a>
-&ensp; <a href="https://web.dio.me/articles/font-boa-para-codar?back=/articles" target="_blank" > <img src= "logo_dio.jpg" width="60" height="25"> </a>
+* Super cool font for coding &ensp; <a href="https://www.linkedin.com/posts/solmorcillo_font-super-legal-para-codar-activity-7000149356163026944-2ZNT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAuitDYBO0Jky_a88mbhGCJBnYJU3tigTfU" target="_blank" > <img src= "logo_linkedin.jpg" width="20" height="20"></a>
+&ensp; <a href="https://web.dio.me/articles/font-boa-para-codar?back=/articles" target="_blank" > <img src= "logo_dio.jpg" width="55" height="20"> </a>
 
-* Zoom in visual studio code &ensp; <a href="https://www.linkedin.com/posts/solmorcillo_dev-easy-codding-visual-studio-code-activity-6999717017268183040-2iIJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAuitDYBO0Jky_a88mbhGCJBnYJU3tigTfU" target="_blank" > <img src= "logo_linkedin.jpg" width="25" height="25"></a>
-&ensp; <a href="https://web.dio.me/articles/zoom-no-visual-studio-code?back=/articles" target="_blank" > <img src= "logo_dio.jpg" width="60" height="25"> </a>
+* Zoom in visual studio code &ensp; <a href="https://www.linkedin.com/posts/solmorcillo_dev-easy-codding-visual-studio-code-activity-6999717017268183040-2iIJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAuitDYBO0Jky_a88mbhGCJBnYJU3tigTfU" target="_blank" > <img src= "logo_linkedin.jpg" width="20" height="20"></a>
+&ensp; <a href="https://web.dio.me/articles/zoom-no-visual-studio-code?back=/articles" target="_blank" > <img src= "logo_dio.jpg" width="55" height="20"> </a>
 
-* Adding img to the background of a retractable menu &ensp; <a href="https://www.linkedin.com/posts/solmorcillo_dev-easy-codding-html-css-adicionando-activity-6999392171652968448-3BY7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAuitDYBO0Jky_a88mbhGCJBnYJU3tigTfU" target="_blank" > <img src= "logo_linkedin.jpg" width="25" height="25"></a>
-&ensp; <a href="https://web.dio.me/articles/adicionando-img-no-background-de-menu-retratil?back=/articles" target="_blank" > <img src= "logo_dio.jpg" width="60" height="25"> </a>
+* Adding img to the background of a retractable menu &ensp; <a href="https://www.linkedin.com/posts/solmorcillo_dev-easy-codding-html-css-adicionando-activity-6999392171652968448-3BY7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAuitDYBO0Jky_a88mbhGCJBnYJU3tigTfU" target="_blank" > <img src= "logo_linkedin.jpg" width="20" height="20"></a>
+&ensp; <a href="https://web.dio.me/articles/adicionando-img-no-background-de-menu-retratil?back=/articles" target="_blank" > <img src= "logo_dio.jpg" width="55" height="20"> </a>
 
 </div>
 
