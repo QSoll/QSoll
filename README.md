@@ -7,20 +7,18 @@
 &nbsp; &ensp; <a href="https://www.github.com/QSoll/" target="_blank" ><img src="logo_github.jpg" alt="Ir para Linkedim" width="15" height="15"></a>
 </div>
 
+<br><br>
+<img src="card_codigo1.jpg" align="center">
+
 <br>
 
 <div align="center">
 
-<br>
+<br><BR>
 
+**DEGREE**
 
-Hello !!! Greetings !!! <br>
-Liking to code is living in constant UPLOAD
-<h3><img src="icon_code_comentario_abertura.png" width="25" height="15"> I LOVE CODING <img src="icon_code_comentario_fechamento.png" width="15" height="15"></h3>
-
-<br>
-
-![Degree:&ensp;INFORMATION&ensp;SYSTEMS&ensp;TECHNOLOGIST](https://img.shields.io/badge/Degree:&ensp;INFORMATION&ensp;SYSTEMS&ensp;TECHNOLOGIST-003545?style=for-the-badge&logo=Degree:&ensp;INFORMATION&ensp;SYSTEMS&ensp;TECHNOLOGIST&logoColor=white)
+![INFORMATION&ensp;SYSTEMS&ensp;TECHNOLOGIST](https://img.shields.io/badge/INFORMATION&ensp;SYSTEMS&ensp;TECHNOLOGIST-003545?style=for-the-badge&logo=INFORMATION&ensp;SYSTEMS&ensp;TECHNOLOGIST&logoColor=white)
 
 </div>
 
@@ -30,37 +28,30 @@ Liking to code is living in constant UPLOAD
 
 **WEB DESIGNER**
 
-![Responsiveness](https://img.shields.io/badge/Responsiveness-%23B92B27.svg?style=for-the-badge&logo=Responsiveness&logoColor=white)![Visual&ensp;Design&ensp;(UI)](https://img.shields.io/badge/Visual&ensp;Design&ensp;(UI)-%23D90007.svg?style=for-the-badge&logo=Visual&ensp;Design&ensp;(UI)&logoColor=white)![Layout&ensp;Creation](https://img.shields.io/badge/-Layout&ensp;Creation-FE7A16?style=for-the-badge&logo=Layout&ensp;Creation&logoColor=white)![Logo&ensp;Creation](https://img.shields.io/badge/Logo&ensp;Creation-EAB300?style=for-the-badge&logo=Logo&ensp;Creation&logoColor=white)![Banner&ensp;Creation](https://img.shields.io/badge/Banner&ensp;Creation-%230056D2.svg?style=for-the-badge&logo=Banner&ensp;Creation&logoColor=white)![Website&ensp;Maintenance](https://img.shields.io/badge/Website&ensp;Maintenance-258ffa?style=for-the-badge&logo=Website&ensp;Maintenance&logoColor=white)![Content&ensp;Analysis](https://img.shields.io/badge/Content&ensp;Analysis-9999FF.svg?style=for-the-badge&logo=Content&ensp;Analysis&logoColor=white)![Landing&ensp;Page&ensp;Creation](https://img.shields.io/badge/Landing&ensp;Page&ensp;Creation-025E8C?style=for-the-badge&logo=Landing&ensp;Page&ensp;Creation&logoColor=white)![Image&ensp;Processing](https://img.shields.io/badge/Image&ensp;Processing-74aa9c?style=for-the-badge&logo=Image&ensp;Processing&logoColor=white)![Video&ensp;Processing](https://img.shields.io/badge/Video&ensp;Processing-0AC18E?style=for-the-badge&logo=Video&ensp;Processing&logoColor=white) ![User&ensp;Experience&ensp;(UX)](https://img.shields.io/badge/User&ensp;Experience&ensp;(UX)-%2382bd4e.svg?style=for-the-badge&logo=User&ensp;Experience&ensp;(UX)&logoColor=black)![Landing&ensp;Page&ensp;Creation](https://img.shields.io/badge/Landing&ensp;Page&ensp;Creation-1997B5&?logo=Landing&ensp;Page&ensp;Creation&logoColor=white&style=for-the-badge)
+![Responsiveness](https://img.shields.io/badge/Responsiveness-%23B92B27.svg?style=for-the-badge&logo=Responsiveness&logoColor=white)![Visual&ensp;Design&ensp;(UI)](https://img.shields.io/badge/Visual&ensp;Design&ensp;(UI)-%23D90007.svg?style=for-the-badge&logo=Visual&ensp;Design&ensp;(UI)&logoColor=white)![Layout&ensp;Creation](https://img.shields.io/badge/-Layout&ensp;Creation-FE7A16?style=for-the-badge&logo=Layout&ensp;Creation&logoColor=white)![Logo&ensp;Creation](https://img.shields.io/badge/Logo&ensp;Creation-EAB300?style=for-the-badge&logo=Logo&ensp;Creation&logoColor=white)![Landing&ensp;Page&ensp;Creation](https://img.shields.io/badge/Landing&ensp;Page&ensp;Creation-025E8C?style=for-the-badge&logo=Landing&ensp;Page&ensp;Creation&logoColor=white)![Image&ensp;Processing](https://img.shields.io/badge/Image&ensp;Processing-74aa9c?style=for-the-badge&logo=Image&ensp;Processing&logoColor=white)![Video&ensp;Processing](https://img.shields.io/badge/Video&ensp;Processing-0AC18E?style=for-the-badge&logo=Video&ensp;Processing&logoColor=white)![Banner&ensp;Creation](https://img.shields.io/badge/Banner&ensp;Creation-%230056D2.svg?style=for-the-badge&logo=Banner&ensp;Creation&logoColor=white)![Website&ensp;Maintenance](https://img.shields.io/badge/Website&ensp;Maintenance-258ffa?style=for-the-badge&logo=Website&ensp;Maintenance&logoColor=white)![Content&ensp;Analysis](https://img.shields.io/badge/Content&ensp;Analysis-9999FF.svg?style=for-the-badge&logo=Content&ensp;Analysis&logoColor=white) 
+![User&ensp;Experience&ensp;(UX)](https://img.shields.io/badge/User&ensp;Experience&ensp;(UX)-%2382bd4e.svg?style=for-the-badge&logo=User&ensp;Experience&ensp;(UX)&logoColor=black)![Landing&ensp;Page&ensp;Creation](https://img.shields.io/badge/Landing&ensp;Page&ensp;Creation-1997B5&?logo=Landing&ensp;Page&ensp;Creation&logoColor=white&style=for-the-badge)
 
 <br>
 
-![Web&nbsp;Developert](https://img.shields.io/badge/Web&nbsp;Developer-2962FF?style=for-the-badge&logo=Web&nbsp;Developer&logoColor=white)
+**WEB DEVELOPER**
 
-<table border="1">
-    <tr>
-        <td>Website creation</td>
-        <td>Code development</td>
-        <td>Database</td>
-    </tr>
-</table>
+![Website&nbsp;creation](https://img.shields.io/badge/Website&nbsp;creation-B59A30?style=for-the-badge&logo=Website&nbsp;creation&logoColor=white)![Database](https://img.shields.io/badge/Database-F4B728?style=for-the-badge&logo=Database&logoColor=white)![Code&nbsp;development](https://img.shields.io/badge/Code&nbsp;development-B59A30?style=for-the-badge&logo=Code&nbsp;development&logoColor=white)
 
-  
 <br><br>
 
-![Soft skills](https://img.shields.io/badge/Soft&ensp;skills-0AC18E?style=for-the-badge&logo=Soft&ensp;skills&logoColor=white)
+**SOF SKILLS**
 
-<table border="1">
-    <tr>
-        <td>Adaptabilidade</td>
-        <td>Comunicação</td>
-        <td>Criatividade</td>
-    </tr>
-    <tr>
-        <td>Empatia</td>
-        <td>Inteligência emocional</td>
-        <td>Liderança</td>
-    </tr>
-    <tr>
+
+
+![Adaptability](https://img.shields.io/badge/Adaptability-0AC18E?style=for-the-badge&logo=Adaptability&logoColor=white)![Comunication](https://img.shields.io/badge/Comunication-DDE072?style=for-the-badge&logo=Comunication&logoColor=white)![Creativity](https://img.shields.io/badge/Creativity-0AC18E?style=for-the-badge&logo=Creativity&logoColor=white)
+
+![Empathy](https://img.shields.io/badge/Empathy-0AC18E?style=for-the-badge&logo=Empathy&logoColor=white)![Emotional&nbsp;intelligence](https://img.shields.io/badge/Emotional&nbsp;intelligence-DDE072?style=for-the-badge&logo=Emotional&nbsp;intelligence&logoColor=white)![Resilience](https://img.shields.io/badge/Resilience-0AC18E?style=for-the-badge&logo=Resilience&logoColor=white)
+
+![Leadership](https://img.shields.io/badge/Leadership-0AC18E?style=for-the-badge&logo=Leadership&logoColor=white)![Teamwork](https://img.shields.io/badge/Teamwork-DDE072?style=for-the-badge&logo=Teamwork&logoColor=white)![Ethics](https://img.shields.io/badge/Ethics-0AC18E?style=for-the-badge&logo=Ethics&logoColor=white)
+
+
+
+       
         <td>Resiliência</td>
         <td>Trabalho em equipe</td>
     </tr>
@@ -138,6 +129,8 @@ Watch on YouTube the <a href="https://youtu.be/VmiQWrJMKYA?si=CLvEnXqrqiBRzNRV" 
 ![QSoll's GitHub stats](https://github-readme-stats.vercel.app/api?username=QSoll&show_icons=true&theme=radical)
 
 </div>
+
+
 
 
 
