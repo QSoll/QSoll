@@ -13,6 +13,12 @@
 
 <br>
 
+
+<h3 color="red">Hello 📤 Liking to code is living in constant UPLOAD 📤</h3>
+<h3><I LOVE CODING> </h3>
+
+<br>
+
 ![Graduação: &ensp;Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação](https://img.shields.io/badge/Graduação:Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação-003545?style=for-the-badge&logo=Graduação:Tecnologo&ensp;em&ensp;Sistemas&ensp;de&ensp;Informação&logoColor=white)
 
 </div>
