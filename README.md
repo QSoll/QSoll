@@ -27,28 +27,30 @@ Liking to code is living in constant UPLOAD
 <br><br>
 
 <div align="center">
+
+**WEB DESIGNER**
+
+![Responsiveness](https://img.shields.io/badge/Responsiveness-%23B92B27.svg?style=for-the-badge&logo=Responsiveness&logoColor=white)
+&ensp; ![Visual&ensp;Design&ensp;(UI)](https://img.shields.io/badge/Visual&ensp;Design&ensp;(UI)-%23D90007.svg?style=for-the-badge&logo=Visual&ensp;Design&ensp;(UI)&logoColor=white)
+![Layout&ensp;Creation](https://img.shields.io/badge/-Layout&ensp;Creation-FE7A16?style=for-the-badge&logo=Layout&ensp;Creation&logoColor=white)
+![Logo&ensp;Creation](https://img.shields.io/badge/Logo&ensp;Creation-EAB300?style=for-the-badge&logo=Logo&ensp;Creation&logoColor=white)
+![Banner&ensp;Creation](https://img.shields.io/badge/Banner&ensp;Creation-%230056D2.svg?style=for-the-badge&logo=Banner&ensp;Creation&logoColor=white)
+![Website&ensp;Maintenance](https://img.shields.io/badge/Website&ensp;Maintenance-258ffa?style=for-the-badge&logo=Website&ensp;Maintenance&logoColor=white)
+![Content&ensp;Analysis](https://img.shields.io/badge/Content&ensp;Analysis-9999FF.svg?style=for-the-badge&logo=Content&ensp;Analysis&logoColor=white)
+![Landing&ensp;Page&ensp;Creation](https://img.shields.io/badge/Landing&ensp;Page&ensp;Creation-025E8C?style=for-the-badge&logo=Landing&ensp;Page&ensp;Creation&logoColor=white)
+![Image&ensp;Processing](https://img.shields.io/badge/Image&ensp;Processing-74aa9c?style=for-the-badge&logo=Image&ensp;Processing&logoColor=white)
+![Video&ensp;Processing](https://img.shields.io/badge/Video&ensp;Processing-0AC18E?style=for-the-badge&logo=Video&ensp;Processing&logoColor=white)
+![User&ensp;Experience&ensp;(UX)](https://img.shields.io/badge/User&ensp;Experience&ensp;(UX)-%2382bd4e.svg?style=for-the-badge&logo=User&ensp;Experience&ensp;(UX)&logoColor=black)
+![Landing&ensp;Page&ensp;Creation](https://img.shields.io/badge/Landing&ensp;Page&ensp;Creation-1997B5&?logo=Landing&ensp;Page&ensp;Creation&logoColor=white&style=for-the-badge)
+
+
   
-![Web&ensp;Designer](https://img.shields.io/badge/Web&ensp;Designer-%23D90007.svg?style=for-the-badge&logo=Web&ensp;Designer&logoColor=white)
+
+
+
     
-<table border="1">
-    <tr>
-        <td>Responsiveness</td>
-        <td>Visual Design (UI)</td>
-        <td>Layout Creation</td>
-    </tr>
-    <tr>
-        <td>Banner Creation</td>
-        <td>Logo Creation</td>
-        <td>Website Maintenance</td>
-    </tr>
-    <tr>
-        <td>Content Analysis</td>
-        <td>Video Processing</td>
-        <td>Image Processing</td>
-    </tr>
-    <tr>
-        <td>User Experience (UX)</td>
-        <td>Landing Page Creation</td>
+        <td>User&ensp;Experience&ensp;(UX)</td>
+        <td>Landing&ensp;Page&ensp;Creation</td>
     </tr>
 </table>
 
