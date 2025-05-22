@@ -26,55 +26,85 @@ Liking to code is living in constant UPLOAD
 
 <br><br>
 
-<div align="left">
+<div align="center">
   
 ![Web&ensp;Designer](https://img.shields.io/badge/Web&ensp;Designer-%23D90007.svg?style=for-the-badge&logo=Web&ensp;Designer&logoColor=white)
-  
-  * Responsiveness
-  * Visual Design (UI)
-  * Layout Creation &ensp; &ensp;
-  * Banner Creation
-  * Logo Creation
-  * Website Maintenance
-  * Content Analysis
-  * Video Processing
-  * Image Processing
-  * User Experience (UX)
-  * Landing Page Creation
+    
+<table border="1">
+    <tr>
+        <td>Responsiveness</td>
+        <td>Visual Design (UI)</td>
+        <td>Layout Creation</td>
+    </tr>
+    <tr>
+        <td>Banner Creation</td>
+        <td>Logo Creation</td>
+        <td>Website Maintenance</td>
+    </tr>
+    <tr>
+        <td>Content Analysis</td>
+        <td>Video Processing</td>
+        <td>Image Processing</td>
+    </tr>
+    <tr>
+        <td>User Experience (UX)</td>
+        <td>Landing Page Creation</td>
+    </tr>
+</table>
 
-    <br><br>
+<br>
 
 ![Web&nbsp;Developert](https://img.shields.io/badge/Web&nbsp;Developer-2962FF?style=for-the-badge&logo=Web&nbsp;Developer&logoColor=white)
 
-* Website creation
-* Code development
-* Database
+<table border="1">
+    <tr>
+        <td>Website creation</td>
+        <td>Code development</td>
+        <td>Database</td>
+    </tr>
+</table>
 
   
 <br><br>
 
 ![Soft skills](https://img.shields.io/badge/Soft&ensp;skills-0AC18E?style=for-the-badge&logo=Soft&ensp;skills&logoColor=white)
 
- * Adaptabilidade
- * Comunicação
- * Criatividade
- * Empatia
- * Inteligência emocional
- * Liderança
- * Resiliência
- * Trabalho em equipe
+<table border="1">
+    <tr>
+        <td>Adaptabilidade</td>
+        <td>Comunicação</td>
+        <td>Criatividade</td>
+    </tr>
+    <tr>
+        <td>Empatia</td>
+        <td>Inteligência emocional</td>
+        <td>Liderança</td>
+    </tr>
+    <tr>
+        <td>Resiliência</td>
+        <td>Trabalho em equipe</td>
+    </tr>
+</table>
 
 <br><br>
 
 
 ![Hard skills](https://img.shields.io/badge/Hard&ensp;skills-EAB300?style=for-the-badge&logo=Hard&ensp;skills&logoColor=white)
 
- * Design
- * Edição de imagens e videos
- * Escrita
- * Gestão de equipe
- * Habilidades de apresentação
- * Programação
+<table border="1">
+    <tr>
+        <td>Design</td>
+        <td>Edição de imagens e vídeos</td>
+        <td>Escrita</td>
+    </tr>
+    <tr>
+        <td>Gestão de equipe</td>
+        <td>Habilidades de apresentação</td>
+        <td>Programação</td>
+    </tr>
+</table>
+
+</div>
 
 <br><br>
 
@@ -100,8 +130,6 @@ Liking to code is living in constant UPLOAD
 
 * Adding img to the background of a retractable menu &ensp; <a href="https://www.linkedin.com/posts/solmorcillo_dev-easy-codding-html-css-adicionando-activity-6999392171652968448-3BY7?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAuitDYBO0Jky_a88mbhGCJBnYJU3tigTfU" target="_blank" > <img src= "logo_linkedin.jpg" width="15" height="15"></a>
 &ensp; <a href="https://web.dio.me/articles/adicionando-img-no-background-de-menu-retratil?back=/articles" target="_blank" > <img src= "logo_dio.jpg" width="40" height="15"> </a>
-
-</div>
 
 ---
 <br>
