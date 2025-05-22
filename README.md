@@ -39,41 +39,18 @@
 
 <br><br>
 
-**SOF SKILLS**
+**SOTF SKILLS**
 
-
-
-![Adaptability](https://img.shields.io/badge/Adaptability-0AC18E?style=for-the-badge&logo=Adaptability&logoColor=white)![Comunication](https://img.shields.io/badge/Comunication-DDE072?style=for-the-badge&logo=Comunication&logoColor=white)![Creativity](https://img.shields.io/badge/Creativity-0AC18E?style=for-the-badge&logo=Creativity&logoColor=white)
-
-![Empathy](https://img.shields.io/badge/Empathy-0AC18E?style=for-the-badge&logo=Empathy&logoColor=white)![Emotional&nbsp;intelligence](https://img.shields.io/badge/Emotional&nbsp;intelligence-DDE072?style=for-the-badge&logo=Emotional&nbsp;intelligence&logoColor=white)![Resilience](https://img.shields.io/badge/Resilience-0AC18E?style=for-the-badge&logo=Resilience&logoColor=white)
-
-![Leadership](https://img.shields.io/badge/Leadership-0AC18E?style=for-the-badge&logo=Leadership&logoColor=white)![Teamwork](https://img.shields.io/badge/Teamwork-DDE072?style=for-the-badge&logo=Teamwork&logoColor=white)![Ethics](https://img.shields.io/badge/Ethics-0AC18E?style=for-the-badge&logo=Ethics&logoColor=white)
-
-
-
-       
-        <td>Resiliência</td>
-        <td>Trabalho em equipe</td>
-    </tr>
-</table>
+![Adaptability](https://img.shields.io/badge/Adaptability-0AC18E?style=for-the-badge&logo=Adaptability&logoColor=white) ![Comunication](https://img.shields.io/badge/Comunication-DDE072?style=for-the-badge&logo=Comunication&logoColor=white) ![Creativity](https://img.shields.io/badge/Creativity-0AC18E?style=for-the-badge&logo=Creativity&logoColor=white) ![Empathy](https://img.shields.io/badge/Empathy-0AC18E?style=for-the-badge&logo=Empathy&logoColor=white)
+![Emotional&nbsp;intelligence](https://img.shields.io/badge/Emotional&nbsp;intelligence-DDE072?style=for-the-badge&logo=Emotional&nbsp;intelligence&logoColor=white) ![Resilience](https://img.shields.io/badge/Resilience-0AC18E?style=for-the-badge&logo=Resilience&logoColor=white) ![Leadership](https://img.shields.io/badge/Leadership-0AC18E?style=for-the-badge&logo=Leadership&logoColor=white) ![Teamwork](https://img.shields.io/badge/Teamwork-DDE072?style=for-the-badge&logo=Teamwork&logoColor=white) ![Ethics](https://img.shields.io/badge/Ethics-0AC18E?style=for-the-badge&logo=Ethics&logoColor=white)
 
 <br><br>
 
+**HARD SKILLS**
 
-![Hard skills](https://img.shields.io/badge/Hard&ensp;skills-EAB300?style=for-the-badge&logo=Hard&ensp;skills&logoColor=white)
+![Design](https://img.shields.io/badge/Design-EAB300?style=for-the-badge&logo=Design&logoColor=white) ![Image&nbsp;editing](https://img.shields.io/badge/Image&nbsp;editing-FF00A0?style=for-the-badge&logo=Image&nbsp;editing&logoColor=white) ![Writing](https://img.shields.io/badge/Writing-EAB300?style=for-the-badge&logo=Writing&logoColor=white)
 
-<table border="1">
-    <tr>
-        <td>Design</td>
-        <td>Edição de imagens e vídeos</td>
-        <td>Escrita</td>
-    </tr>
-    <tr>
-        <td>Gestão de equipe</td>
-        <td>Habilidades de apresentação</td>
-        <td>Programação</td>
-    </tr>
-</table>
+![Presentation](https://img.shields.io/badge/Presentation-EAB300?style=for-the-badge&logo=Presentation&logoColor=white) ![Team&nbsp;management](https://img.shields.io/badge/Team&nbsp;management-FF00A0?style=for-the-badge&logo=Team&nbsp;management&logoColor=white) ![Developer](https://img.shields.io/badge/Developer-EAB300?style=for-the-badge&logo=Developer&logoColor=white)
 
 </div>
 
