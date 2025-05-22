@@ -14,7 +14,7 @@
 <br>
 
 
-Hello ! Greetings !!! <br>
+Hello !!! Greetings !!! <br>
 Liking to code is living in constant UPLOAD
 <h3><img src="icon_code_comentario_abertura.png" width="25" height="15"> I LOVE CODING <img src="icon_code_comentario_fechamento.png" width="15" height="15"></h3>
 
