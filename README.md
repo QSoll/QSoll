@@ -1,4 +1,4 @@
-<img align="center" src="banner_photo_top3.jpg">
+<img align="center" src="banner_top1.jpg">
 
 <div align="center">
   <a href="https://solmorcillo.com.br" title="Website Sol Morcillo" target="_blank"><img src="logotipoSM_SM.png" width="30" height="40"></a> &nbsp; &ensp; &nbsp; <a href="https://solmorcillo.com.br/momodin.html" title="Website MoModIn" target="_blank"><img src="logoMomodin.fw.png" width="35" height=40"></a> &nbsp; &ensp; &nbsp; <a href="https://solmorcillo.com.br/ioubi.html" title="Website iOUBi" target="_blank"><img src="logotipo_ioubi.fw.png" width="30" height="40"></a>
@@ -127,7 +127,10 @@ Watch on YouTube the <a href="https://youtu.be/VmiQWrJMKYA?si=CLvEnXqrqiBRzNRV" 
 
 <img align="center" src="banner1.png">
 
----
+<br>
+
+<img align="center" src="assinatura1.jpg">
+
 <br>
 
 <div align="center">
@@ -135,6 +138,8 @@ Watch on YouTube the <a href="https://youtu.be/VmiQWrJMKYA?si=CLvEnXqrqiBRzNRV" 
 ![QSoll's GitHub stats](https://github-readme-stats.vercel.app/api?username=QSoll&show_icons=true&theme=radical)
 
 </div>
+
+
 
 
 
