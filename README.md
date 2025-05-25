@@ -85,6 +85,18 @@
   
 ![Produtos desenvolvidos](https://img.shields.io/badge/Products&ensp;developed-FFCC01?style=for-the-badge&logo=Products&ensp;developed&logoColor=white)
 
+**FONTS**
+
+
+* Sol Morcillo logo
+* MoModIn logo
+* iOUBi logo
+
+Software used: Inkscape
+<br>
+
+**MoModIn RULERS** 
+
 * 80 cm ruler
 * Hook ruler
 * Hollow doll ruler/square
@@ -92,7 +104,26 @@
 Material: PETG <br>
 Creation tool: CorelDRAW <br>
 Watch on YouTube the <a href="https://youtu.be/VmiQWrJMKYA?si=CLvEnXqrqiBRzNRV" target="_blank" > MoModIn rulers</a>
-                            
+
+
+* **Model and shape design** Imagination and strategic vision to define the product concept.
+
+* **Technical drawing** Precision and attention to detail to graphically represent the idea.
+
+* **Material research** Careful evaluation to ensure quality, functionality and cost-benefit.
+
+* **Creativity and innovation** Original thinking to develop unique and differentiated solutions.
+
+* **Decision making** Ability to choose the best paths when faced with challenges and restrictions.
+
+* **Time management** Organization and planning to meet deadlines and optimize processes.
+
+* **Problem solving** Ability to overcome obstacles and adjust the project as needed.
+
+* **Effective communication** Clarity when conveying ideas and collaborating with partners or clients.
+
+* **Flexibility and adaptation** Willingness to reevaluate and modify details when necessary.
+                
 </div>
 
 <img align="center" src="banner1.png">
