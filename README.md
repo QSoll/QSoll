@@ -85,12 +85,11 @@
   
 ![Produtos desenvolvidos](https://img.shields.io/badge/Products&ensp;developed-FFCC01?style=for-the-badge&logo=Products&ensp;developed&logoColor=white)
 
-**FONTS**
+**LOGOS AND FONTS**
 
-
-* Sol Morcillo logo
-* MoModIn logo
-* iOUBi logo
+* Sol Morcillo
+* MoModIn
+* iOUBi
 
 Software used: Inkscape
 <br>
