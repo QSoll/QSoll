@@ -94,9 +94,14 @@
 Software used: Inkscape
 <br>
 <div align="center">
-  <a href="https://solmorcillo.com.br" title="Website Sol Morcillo" target="_blank"><img src="logo_SM_desenhado.jpg" width="80" height="100"></a> &nbsp; &ensp; &nbsp;<a href="https://solmorcillo.com.br/ioubi.html" title="Website iOUBi" target="_blank"><img src="logo_ioubi_desenhado.jpg" width="80" height="100"></a>
+  <a href="https://solmorcillo.com.br" title="Website Sol Morcillo" target="_blank"><img src="logo_SM_desenhado.jpg" width="80" height="100"></a> &nbsp; &ensp; &nbsp;<a href="https://solmorcillo.com.br/ioubi.html" title="Website iOUBi" target="_blank"><img src="logo_ioubi_desenhado.jpg" width="80" height="100"></a> <br> 
+
+  </div>
+
   <br>
-&nbsp; &ensp;&nbsp; <a href="https://solmorcillo.com.br/momodin.html" title="Website MoModIn" target="_blank"><img src="logo_momodin_desenhado_unido.jpg" width="250" height=100"></a> 
+<div align="center"> 
+  <a href="https://solmorcillo.com.br/momodin.html" title="Website MoModIn" target="_blank"><img src="logo_momodin_desenhado_unido.jpg" width="240" height=100"></a>
+  
 </div>
 
 <br>
