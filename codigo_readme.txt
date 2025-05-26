@@ -1,10 +1,11 @@
 readme.md do github Qsoll/Qsoll
+Atualizado em 26mai25 11:49h
 
 <img align="center" src="banner_top1.jpg">
 
 <div align="center">
   <a href="https://solmorcillo.com.br" title="Website Sol Morcillo" target="_blank"><img src="logo_SM.jpg" width="30" height="40"></a> &nbsp; &ensp; &nbsp;<a href="https://solmorcillo.com.br/ioubi.html" title="Website iOUBi" target="_blank"><img src="logo_ioubi.jpg" width="30" height="40"></a>
-&nbsp; &ensp;&nbsp; <a href="https://solmorcillo.com.br/momodin.html" title="Website MoModIn" target="_blank"><img src="logo_momodin.jpg" width="100" height=40"></a> &nbsp; &ensp; &nbsp; 
+&nbsp; &ensp;&nbsp; <a href="https://solmorcillo.com.br/momodin.html" title="Website MoModIn" target="_blank"><img src="logo_momodin.jpg" width="120" height=40"></a> &nbsp; &ensp; &nbsp; 
   <a href="https://www.linkedin.com/in/solmorcillo/" target="_blank" ><img src="logo_linkedin.jpg" width=15" height="15"></a> &nbsp; &ensp; <a href="https://www.youtube.com/@SolMorcillo" target="_blank"><img src="logo_youtube.png" alt="texto" width="15" height="15"></a> &nbsp; &ensp; <a href="https://www.instagram.com/sol_morcillo/" target="_blank"><img src="logo_instagram.png" alt="texto" width="15" height="15"></a>
 &nbsp; &ensp; <a href="https://www.github.com/QSoll/" target="_blank" ><img src="logo_github.jpg" alt="Ir para Linkedim" width="15" height="15"></a>
 </div>
@@ -102,7 +103,7 @@ Software used: Inkscape
 
   <br>
 <div align="center"> 
-  <a href="https://solmorcillo.com.br/momodin.html" title="Website MoModIn" target="_blank"><img src="logo_momodin.jpg" width="240" height=100"></a>
+  <a href="https://solmorcillo.com.br/momodin.html" title="Website MoModIn" target="_blank"><img src="logo_momodin.jpg" width="260" height=100"></a>
   
 </div>
 
@@ -152,5 +153,6 @@ Watch on YouTube the <a href="https://youtu.be/VmiQWrJMKYA?si=CLvEnXqrqiBRzNRV" 
 ![QSoll's GitHub stats](https://github-readme-stats.vercel.app/api?username=QSoll&show_icons=true&theme=radical)
 
 </div>
+
 
 
