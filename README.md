@@ -58,7 +58,7 @@
 ![some certificates acquired](https://img.shields.io/badge/Some&ensp;certificates&ensp;acquired-FF6600?style=for-the-badge&logo=Some&ensp;certificates&ensp;acquired&logoColor=white)
 
 * <a href="https://www.linkedin.com/in/solmorcillo/details/certifications/" target="_blank"><img src= "logo_linkedin.jpg" width="25" height="25"></a>
-* Prompts Inteligentes - Microsoft 50 Anos - DIO - 16/05/2025
+*Smart Prompts - Microsoft 50 Anos - DIO - 16/05/2025
 * Audaces - Cetiqt RJ
 * Web designer - ISeven RJ- 1999
 
@@ -67,7 +67,7 @@
 
 ![Some of my posts](https://img.shields.io/badge/Some&ensp;of&ensp;my&ensp;posts-E6007A?style=for-the-badge&logo=Algumas&ensp;das&ensp;minhas&ensp;postagens&logoColor=white)
 
-* VISUAL STUDIO CODE Projeto sem a pasta vscode? RESOLVA FÁCIL &ensp; <a href="https://www.linkedin.com/posts/solmorcillo_visual-studio-code-seu-projeto-est%C3%A1-sem-a-activity-7337477375099559936-fyZF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAuitDYBO0Jky_a88mbhGCJBnYJU3tigTfU"><img src= "logo_linkedin.jpg" width="15" height="15"></a> &ensp;<a href="https://web.dio.me/topics/projeto-exemplofundamentos-sem-pasta-vscode-resolva-facil?back=%2Ftrack%2Fwex-end-end-engineering&order=undefined&page=1&search=&tab=forum&track_id=2788777f-63a7-4a41-a8eb-28133a20c2f1" target="_blank" ><img src= "logo_dio.jpg" width="40" height="15"></a>
+* VISUAL STUDIO CODE Project without vscode folder? SOLVE IT EASILY &ensp; <a href="https://www.linkedin.com/posts/solmorcillo_visual-studio-code-seu-projeto-est%C3%A1-sem-a-activity-7337477375099559936-fyZF?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAuitDYBO0Jky_a88mbhGCJBnYJU3tigTfU"><img src= "logo_linkedin.jpg" width="15" height="15"></a> &ensp;<a href="https://web.dio.me/topics/projeto-exemplofundamentos-sem-pasta-vscode-resolva-facil?back=%2Ftrack%2Fwex-end-end-engineering&order=undefined&page=1&search=&tab=forum&track_id=2788777f-63a7-4a41-a8eb-28133a20c2f1" target="_blank" ><img src= "logo_dio.jpg" width="40" height="15"></a>
 
 * The impact of prompt engineering on programming &ensp; <a href="https://www.linkedin.com/posts/solmorcillo_podcast-o-impacto-da-engenharia-de-prompt-activity-7329138780697792515-8UtK?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAuitDYBO0Jky_a88mbhGCJBnYJU3tigTfU"><img src= "logo_linkedin.jpg" width="15" height="15"></a> &ensp;<a href="https://web.dio.me/articles/o-impacto-da-engenharia-de-prompt-na-programacao-8b628b1ca1fc?back=/articles" target="_blank" ><img src= "logo_dio.jpg" width="40" height="15"></a>
 
