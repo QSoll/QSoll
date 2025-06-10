@@ -58,7 +58,7 @@
 ![some certificates acquired](https://img.shields.io/badge/Some&ensp;certificates&ensp;acquired-FF6600?style=for-the-badge&logo=Some&ensp;certificates&ensp;acquired&logoColor=white)
 
 * <a href="https://www.linkedin.com/in/solmorcillo/details/certifications/" target="_blank"><img src= "logo_linkedin.jpg" width="25" height="25"></a>
-* <a href="https://www.maismulheres.tech/certificates/7pr4yefmgl">Security Girls Brasil 2025</a>
+* <a href="https://www.maismulheres.tech/certificates/7pr4yefmgl" target="_blank">Security Girls Brasil 2025</a>
 * Smart Prompts - Microsoft 50 Anos - DIO - 16/05/2025
 * Audaces - Cetiqt RJ
 * Web designer - ISeven RJ- 1999
