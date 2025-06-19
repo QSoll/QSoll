@@ -55,14 +55,36 @@
 
 <br><br>
 
+![Some Bootcamps](https://img.shields.io/badge/Some&ensp;Bootcamps-FFCC01?style=for-the-badge&logo=Some&ensp;Bootcamps&logoColor=white)
+
+# Dio
+
+* **Current bootcamp** WEX - End to End Engineering 
+* Microsoft 50 Years - Smart Prompts
+* NTT DATA Diversity in Tech
+* Potência Tech powered by iFood - Java Beginners
+* AWS Cloud Data Ecosystem Immersion
+
+# Alura
+
+**Training**
+
+* Training: Business Agility T4 - One
+* Personal development
+
+<br><br>
 ![some certificates acquired](https://img.shields.io/badge/Some&ensp;certificates&ensp;acquired-FF6600?style=for-the-badge&logo=Some&ensp;certificates&ensp;acquired&logoColor=white)
 
 * <a href="https://www.linkedin.com/in/solmorcillo/details/certifications/" target="_blank"><img src= "logo_linkedin.jpg" width="25" height="25"></a>
 * <a href="https://www.maismulheres.tech/certificates/7pr4yefmgl/" target="_blank">Security Girls Brasil 2025</a>
-* Smart Prompts - Microsoft 50 Anos - DIO - 16/05/2025
-* Audaces - Cetiqt RJ
-* Web designer - ISeven RJ- 1999
-
+* Java JRE and JDK: Compile and Run Your Program
+* JavaScript and HTML: Programming logic with drawings and animations, and game development
+* Focus: bringing more results to your day-to-day life
+* HTML and CSS3
+* Git and Github: Control and share your code
+* LinkedIn:How to make your profile work for you
+* Habits: From productivity to personal goals
+* Web designer - ISeven RJ- 2001
 
 <br><br>
 
@@ -86,7 +108,7 @@
 
 <div align="left">
   
-![Produtos desenvolvidos](https://img.shields.io/badge/Products&ensp;developed-FFCC01?style=for-the-badge&logo=Products&ensp;developed&logoColor=white)
+![Products developed](https://img.shields.io/badge/Products&ensp;developed-FFCC01?style=for-the-badge&logo=Products&ensp;developed&logoColor=white)
 
 **LOGOS AND FONTS**
 
